@@ -46,11 +46,8 @@ R. Wessel, C. Koch, and F. Gabbiani,
 ```
 fish-analysis/
 ├── fish_data_analysis.ipynb   #  Python solution notebook
-├── first problem.pdf          #  Original MIT assignment
-├── README.md                  #  This file
-└── .gitignore                 #  Ignore metadata/unwanted files
-```
-
+├── MIT_first problem.pdf      #  Original MIT assignment
+└── README.md                  #  This file
 ---
 
 ## Getting Started
