@@ -17,7 +17,7 @@ This repository contains a Python-based solution to a classic computational neur
 
 ---
 
-##  Project Objectives
+##  Project Aim
 
 -  Visualize electrosensory stimulus and spike train
 -  Estimate firing rates using boxcar filter convolution
