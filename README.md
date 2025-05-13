@@ -71,25 +71,8 @@ Do not use this repository for cheating or academic dishonesty in your own cours
 
 Author
 
-Developed and converted to Python by [Your Name Here]
+Developed and converted to Python by [Handan VURAL]
 Course Adaptation and Guidance by MIT Brain and Cognitive Sciences
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 
 
 
